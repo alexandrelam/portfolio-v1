@@ -101,6 +101,12 @@ a {
   }
 }
 
+@media only screen and (max-width: 28rem) {
+  .hero .contact{
+    font-size: 0.7rem;
+  }
+}
+
 /*****about section******/
 .about {
     background-color: #FAFAFA;
